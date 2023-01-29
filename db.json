@@ -52,7 +52,7 @@
       "password": "123123",
       "email": "tester@gmail.com",
       "active": "Chưa kích hoạt",
-      "marks": 5
+      "marks": 0
     }
   ],
   "marks": [
@@ -62,20 +62,6 @@
       "quizId": "ADUI",
       "quizMark": 3,
       "id": "H_F3Y6t"
-    },
-    {
-      "studentId": 6,
-      "quizName": "Xây dựng trang Web",
-      "quizId": "WEBU",
-      "quizMark": 2,
-      "id": "bGLBmEt"
-    },
-    {
-      "studentId": 6,
-      "quizName": "Xây dựng trang Web",
-      "quizId": "WEBU",
-      "quizMark": 3,
-      "id": "0RWN44r"
     }
   ]
 }
