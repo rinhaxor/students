@@ -1,0 +1,81 @@
+{
+  "listStudents": [
+    {
+      "id": 1,
+      "fullname": "Em đẹp lắm",
+      "username": "emdeplam",
+      "password": "123123",
+      "email": "emdeplam@gmail.com",
+      "active": "Chưa kích hoạt",
+      "marks": 0
+    },
+    {
+      "id": 2,
+      "fullname": "Lê Rin",
+      "username": "rinlpd06140",
+      "password": "123456",
+      "email": "rinlpd06140@fpt.edu.vn",
+      "active": "Chưa kích hoạt",
+      "marks": 0
+    },
+    {
+      "id": 3,
+      "fullname": "Hoàng Thị Khánh Ly",
+      "username": "lyhtkpd06054",
+      "password": "123456",
+      "email": "lyhtkpd06054@fpt.edu.vn",
+      "active": "Chưa kích hoạt",
+      "marks": 0
+    },
+    {
+      "id": 4,
+      "fullname": "Hồ Thiện Hoàng",
+      "username": "hoanghtpd05588",
+      "password": "123456",
+      "email": "hoanghtpd05588@fpt.edu.vn",
+      "active": "Chưa kích hoạt",
+      "marks": 0
+    },
+    {
+      "id": 5,
+      "fullname": "Trần Duy",
+      "username": "duytpd06168",
+      "password": "123456",
+      "email": "duytpd06168@fpt.edu.vn",
+      "active": "Chưa kích hoạt",
+      "marks": 0
+    },
+    {
+      "id": 6,
+      "fullname": "Tài khoản thử nghiệm",
+      "username": "Tester",
+      "password": "123123",
+      "email": "tester@gmail.com",
+      "active": "Chưa kích hoạt",
+      "marks": 5
+    }
+  ],
+  "marks": [
+    {
+      "studentId": 0,
+      "quizName": "Thiết kế giao diện trên Android",
+      "quizId": "ADUI",
+      "quizMark": 3,
+      "id": "H_F3Y6t"
+    },
+    {
+      "studentId": 6,
+      "quizName": "Xây dựng trang Web",
+      "quizId": "WEBU",
+      "quizMark": 2,
+      "id": "bGLBmEt"
+    },
+    {
+      "studentId": 6,
+      "quizName": "Xây dựng trang Web",
+      "quizId": "WEBU",
+      "quizMark": 3,
+      "id": "0RWN44r"
+    }
+  ]
+}
